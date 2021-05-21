@@ -11,3 +11,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.box{
+    height: 100vh;
+    width: 100vw;    
+}
+
+.container{
+   border-radius: 1rem;
+}
+
+.row{
+    border-radius: 1rem;
+}
+.col{
+    font-size: 4rem;
+}
+.btn{
+    margin: 0.5rem;
+}
